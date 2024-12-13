@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35431.28
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SleekPrint", "SleekPrint\SleekPrint.csproj", "{5CFB842E-EF5F-4ECD-8538-1F1C713BF126}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SleekPrint", "SleekPrint\SleekPrint.csproj", "{5CFB842E-EF5F-4ECD-8538-1F1C713BF126}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SleekPrint.DataAccess", "SleekPrint.DataAccess\SleekPrint.DataAccess.csproj", "{0B2424AA-EE53-4F57-89AE-8C379183EE42}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SleekPrint.DataAccess", "SleekPrint.DataAccess\SleekPrint.DataAccess.csproj", "{0B2424AA-EE53-4F57-89AE-8C379183EE42}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SleekPrint.Models", "SleekPrint.Models\SleekPrint.Models.csproj", "{004F51AA-EE73-403A-91FF-1F8FEB26D692}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SleekPrint.Models", "SleekPrint.Models\SleekPrint.Models.csproj", "{004F51AA-EE73-403A-91FF-1F8FEB26D692}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SleekPrint.Utility", "SleekPrint.Utility\SleekPrint.Utility.csproj", "{A0A052CD-2384-4B91-B738-00CF3937DCB3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SleekPrint.Utility", "SleekPrint.Utility\SleekPrint.Utility.csproj", "{A0A052CD-2384-4B91-B738-00CF3937DCB3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
