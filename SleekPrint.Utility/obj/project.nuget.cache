@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zxro/hKK5NE=",
+  "success": true,
+  "projectFilePath": "C:\\Development\\Dotnet\\SleekPrint\\SleekPrint.Utility\\SleekPrint.Utility.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.100\\microsoft.net.sdk.compilers.toolset.9.0.100.nupkg.sha512"
+  ],
+  "logs": []
+}

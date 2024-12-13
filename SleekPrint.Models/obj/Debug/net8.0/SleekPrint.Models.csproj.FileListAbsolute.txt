@@ -1,0 +1,12 @@
+C:\Development\Dotnet\SleekPrint\SleekPrint.Models\bin\Debug\net8.0\SleekPrint.Models.deps.json
+C:\Development\Dotnet\SleekPrint\SleekPrint.Models\bin\Debug\net8.0\SleekPrint.Models.dll
+C:\Development\Dotnet\SleekPrint\SleekPrint.Models\bin\Debug\net8.0\SleekPrint.Models.pdb
+C:\Development\Dotnet\SleekPrint\SleekPrint.Models\obj\Debug\net8.0\SleekPrint.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Dotnet\SleekPrint\SleekPrint.Models\obj\Debug\net8.0\SleekPrint.Models.AssemblyInfoInputs.cache
+C:\Development\Dotnet\SleekPrint\SleekPrint.Models\obj\Debug\net8.0\SleekPrint.Models.AssemblyInfo.cs
+C:\Development\Dotnet\SleekPrint\SleekPrint.Models\obj\Debug\net8.0\SleekPrint.Models.csproj.CoreCompileInputs.cache
+C:\Development\Dotnet\SleekPrint\SleekPrint.Models\obj\Debug\net8.0\SleekPrint.Models.sourcelink.json
+C:\Development\Dotnet\SleekPrint\SleekPrint.Models\obj\Debug\net8.0\SleekPrint.Models.dll
+C:\Development\Dotnet\SleekPrint\SleekPrint.Models\obj\Debug\net8.0\refint\SleekPrint.Models.dll
+C:\Development\Dotnet\SleekPrint\SleekPrint.Models\obj\Debug\net8.0\SleekPrint.Models.pdb
+C:\Development\Dotnet\SleekPrint\SleekPrint.Models\obj\Debug\net8.0\ref\SleekPrint.Models.dll
