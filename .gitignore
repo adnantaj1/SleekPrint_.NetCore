@@ -1,2 +1,5 @@
 # Ignore Visual Studio files and folders
 .vs/
+
+# Ignore application settings file
+appsettings.json
