@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "SsVaGIx7jmX3qcXeIL0SGJwFLjDhhQyXZeZYuXxmrJY=",
+  "Hash": "kYpEV/dfnD2aVPbIFuwLV2Oe33j2ZklZ/izZc/byGwM=",
   "Source": "SleekPrint",
   "BasePath": "_content/SleekPrint",
   "Mode": "Default",
@@ -1949,12 +1949,12 @@
       "OriginalItemSpec": "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.0\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Development\\Dotnet\\SleekPrint\\SleekPrint\\obj\\Debug\\net9.0\\compressed\\j3kok8pczy-bfnwq6fmmm.gz",
+      "Identity": "C:\\Development\\Dotnet\\SleekPrint\\SleekPrint\\obj\\Debug\\net9.0\\compressed\\j3kok8pczy-19kc92yg45.gz",
       "SourceId": "SleekPrint",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Development\\Dotnet\\SleekPrint\\SleekPrint\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/SleekPrint",
-      "RelativePath": "js/product#[.{fingerprint=bfnwq6fmmm}]?.js.gz",
+      "RelativePath": "js/product#[.{fingerprint=19kc92yg45}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -1963,8 +1963,8 @@
       "RelatedAsset": "C:\\Development\\Dotnet\\SleekPrint\\SleekPrint\\wwwroot\\js\\product.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "rlbjni4krt",
-      "Integrity": "fwAzxw95QvQ4npZLcDdJM/OmqF6kid3+NPFs/t9UuEE=",
+      "Fingerprint": "lkwoxk609y",
+      "Integrity": "5au/bJ0N6xcEK+l/ffXpoD2NfBSWVAcgzKZIAeOrYb4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Development\\Dotnet\\SleekPrint\\SleekPrint\\wwwroot\\js\\product.js"
@@ -3818,12 +3818,12 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Development\\Dotnet\\SleekPrint\\SleekPrint\\wwwroot\\images\\products\\product-4\\0d57e999-f65e-4f84-91a1-298187fc601f.jpg",
+      "Identity": "C:\\Development\\Dotnet\\SleekPrint\\SleekPrint\\wwwroot\\images\\carousel1.png",
       "SourceId": "SleekPrint",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Development\\Dotnet\\SleekPrint\\SleekPrint\\wwwroot\\",
       "BasePath": "_content/SleekPrint",
-      "RelativePath": "images/products/product-4/0d57e999-f65e-4f84-91a1-298187fc601f#[.{fingerprint}]?.jpg",
+      "RelativePath": "images/carousel1#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -3832,32 +3832,11 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "qxby501rkx",
-      "Integrity": "7mWgsD6iFU4ATUN8sqbG/WZ64+5Gt+eWOkxWihne6Pk=",
+      "Fingerprint": "kcqmnw62k4",
+      "Integrity": "5AXtARLG50kEiXhGRYZQwHhUEcFlSgcrL5JPcqlMHYA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\product-4\\0d57e999-f65e-4f84-91a1-298187fc601f.jpg"
-    },
-    {
-      "Identity": "C:\\Development\\Dotnet\\SleekPrint\\SleekPrint\\wwwroot\\images\\products\\product-4\\19ed8382-6e86-4736-98b3-fc41145c78e3.jpg",
-      "SourceId": "SleekPrint",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Development\\Dotnet\\SleekPrint\\SleekPrint\\wwwroot\\",
-      "BasePath": "_content/SleekPrint",
-      "RelativePath": "images/products/product-4/19ed8382-6e86-4736-98b3-fc41145c78e3#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "cafjpk87dy",
-      "Integrity": "JJ20MfQmqFw4v7gxWKcgzDMC6FMUXDP4K97Jj8MQzx4=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\product-4\\19ed8382-6e86-4736-98b3-fc41145c78e3.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\carousel1.png"
     },
     {
       "Identity": "C:\\Development\\Dotnet\\SleekPrint\\SleekPrint\\wwwroot\\js\\company.js",
@@ -3916,8 +3895,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "bfnwq6fmmm",
-      "Integrity": "l+BKwHfX2E5Ha4Ocm0rcNrn6cQgI3UVIN3OJAIx7ybs=",
+      "Fingerprint": "19kc92yg45",
+      "Integrity": "e/0uEe+kH7Og3eM0oXhAJ9bNeOMfR/NDxgonu9zY9Hk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\product.js"
@@ -18670,8 +18649,8 @@
       ]
     },
     {
-      "Route": "images/products/product-4/0d57e999-f65e-4f84-91a1-298187fc601f.jpg",
-      "AssetFile": "C:\\Development\\Dotnet\\SleekPrint\\SleekPrint\\wwwroot\\images\\products\\product-4\\0d57e999-f65e-4f84-91a1-298187fc601f.jpg",
+      "Route": "images/carousel1.kcqmnw62k4.png",
+      "AssetFile": "C:\\Development\\Dotnet\\SleekPrint\\SleekPrint\\wwwroot\\images\\carousel1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -18680,56 +18659,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "103137"
+          "Value": "879658"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/jpeg"
+          "Value": "image/png"
         },
         {
           "Name": "ETag",
-          "Value": "\"7mWgsD6iFU4ATUN8sqbG/WZ64+5Gt+eWOkxWihne6Pk=\""
+          "Value": "\"5AXtARLG50kEiXhGRYZQwHhUEcFlSgcrL5JPcqlMHYA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Dec 2024 20:37:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-7mWgsD6iFU4ATUN8sqbG/WZ64+5Gt+eWOkxWihne6Pk="
-        }
-      ]
-    },
-    {
-      "Route": "images/products/product-4/0d57e999-f65e-4f84-91a1-298187fc601f.qxby501rkx.jpg",
-      "AssetFile": "C:\\Development\\Dotnet\\SleekPrint\\SleekPrint\\wwwroot\\images\\products\\product-4\\0d57e999-f65e-4f84-91a1-298187fc601f.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "103137"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"7mWgsD6iFU4ATUN8sqbG/WZ64+5Gt+eWOkxWihne6Pk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 13 Dec 2024 20:37:56 GMT"
+          "Value": "Sat, 14 Dec 2024 12:18:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -18739,21 +18681,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "qxby501rkx"
+          "Value": "kcqmnw62k4"
         },
         {
           "Name": "label",
-          "Value": "images/products/product-4/0d57e999-f65e-4f84-91a1-298187fc601f.jpg"
+          "Value": "images/carousel1.png"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-7mWgsD6iFU4ATUN8sqbG/WZ64+5Gt+eWOkxWihne6Pk="
+          "Value": "sha256-5AXtARLG50kEiXhGRYZQwHhUEcFlSgcrL5JPcqlMHYA="
         }
       ]
     },
     {
-      "Route": "images/products/product-4/19ed8382-6e86-4736-98b3-fc41145c78e3.cafjpk87dy.jpg",
-      "AssetFile": "C:\\Development\\Dotnet\\SleekPrint\\SleekPrint\\wwwroot\\images\\products\\product-4\\19ed8382-6e86-4736-98b3-fc41145c78e3.jpg",
+      "Route": "images/carousel1.png",
+      "AssetFile": "C:\\Development\\Dotnet\\SleekPrint\\SleekPrint\\wwwroot\\images\\carousel1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -18762,64 +18704,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "73813"
+          "Value": "879658"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/jpeg"
+          "Value": "image/png"
         },
         {
           "Name": "ETag",
-          "Value": "\"JJ20MfQmqFw4v7gxWKcgzDMC6FMUXDP4K97Jj8MQzx4=\""
+          "Value": "\"5AXtARLG50kEiXhGRYZQwHhUEcFlSgcrL5JPcqlMHYA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Dec 2024 20:37:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "cafjpk87dy"
-        },
-        {
-          "Name": "label",
-          "Value": "images/products/product-4/19ed8382-6e86-4736-98b3-fc41145c78e3.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-JJ20MfQmqFw4v7gxWKcgzDMC6FMUXDP4K97Jj8MQzx4="
-        }
-      ]
-    },
-    {
-      "Route": "images/products/product-4/19ed8382-6e86-4736-98b3-fc41145c78e3.jpg",
-      "AssetFile": "C:\\Development\\Dotnet\\SleekPrint\\SleekPrint\\wwwroot\\images\\products\\product-4\\19ed8382-6e86-4736-98b3-fc41145c78e3.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "73813"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"JJ20MfQmqFw4v7gxWKcgzDMC6FMUXDP4K97Jj8MQzx4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 13 Dec 2024 20:37:56 GMT"
+          "Value": "Sat, 14 Dec 2024 12:18:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -18829,7 +18726,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-JJ20MfQmqFw4v7gxWKcgzDMC6FMUXDP4K97Jj8MQzx4="
+          "Value": "sha256-5AXtARLG50kEiXhGRYZQwHhUEcFlSgcrL5JPcqlMHYA="
         }
       ]
     },
@@ -19430,13 +19327,13 @@
       ]
     },
     {
-      "Route": "js/product.bfnwq6fmmm.js",
-      "AssetFile": "C:\\Development\\Dotnet\\SleekPrint\\SleekPrint\\obj\\Debug\\net9.0\\compressed\\j3kok8pczy-bfnwq6fmmm.gz",
+      "Route": "js/product.19kc92yg45.js",
+      "AssetFile": "C:\\Development\\Dotnet\\SleekPrint\\SleekPrint\\obj\\Debug\\net9.0\\compressed\\j3kok8pczy-19kc92yg45.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001470588235"
+          "Quality": "0.001466275660"
         }
       ],
       "ResponseHeaders": [
@@ -19446,15 +19343,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "679"
+          "Value": "681"
         },
         {
           "Name": "ETag",
-          "Value": "\"fwAzxw95QvQ4npZLcDdJM/OmqF6kid3+NPFs/t9UuEE=\""
+          "Value": "\"5au/bJ0N6xcEK+l/ffXpoD2NfBSWVAcgzKZIAeOrYb4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Dec 2024 19:47:32 GMT"
+          "Value": "Wed, 18 Dec 2024 21:04:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -19474,13 +19371,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"l+BKwHfX2E5Ha4Ocm0rcNrn6cQgI3UVIN3OJAIx7ybs=\""
+          "Value": "W/\"e/0uEe+kH7Og3eM0oXhAJ9bNeOMfR/NDxgonu9zY9Hk=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "bfnwq6fmmm"
+          "Value": "19kc92yg45"
         },
         {
           "Name": "label",
@@ -19488,12 +19385,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-l+BKwHfX2E5Ha4Ocm0rcNrn6cQgI3UVIN3OJAIx7ybs="
+          "Value": "sha256-e/0uEe+kH7Og3eM0oXhAJ9bNeOMfR/NDxgonu9zY9Hk="
         }
       ]
     },
     {
-      "Route": "js/product.bfnwq6fmmm.js",
+      "Route": "js/product.19kc92yg45.js",
       "AssetFile": "C:\\Development\\Dotnet\\SleekPrint\\SleekPrint\\wwwroot\\js\\product.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -19503,7 +19400,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1698"
+          "Value": "1672"
         },
         {
           "Name": "Content-Type",
@@ -19511,11 +19408,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"l+BKwHfX2E5Ha4Ocm0rcNrn6cQgI3UVIN3OJAIx7ybs=\""
+          "Value": "\"e/0uEe+kH7Og3eM0oXhAJ9bNeOMfR/NDxgonu9zY9Hk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Dec 2024 19:47:32 GMT"
+          "Value": "Wed, 18 Dec 2024 21:04:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -19525,7 +19422,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "bfnwq6fmmm"
+          "Value": "19kc92yg45"
         },
         {
           "Name": "label",
@@ -19533,13 +19430,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-l+BKwHfX2E5Ha4Ocm0rcNrn6cQgI3UVIN3OJAIx7ybs="
+          "Value": "sha256-e/0uEe+kH7Og3eM0oXhAJ9bNeOMfR/NDxgonu9zY9Hk="
         }
       ]
     },
     {
-      "Route": "js/product.bfnwq6fmmm.js.gz",
-      "AssetFile": "C:\\Development\\Dotnet\\SleekPrint\\SleekPrint\\obj\\Debug\\net9.0\\compressed\\j3kok8pczy-bfnwq6fmmm.gz",
+      "Route": "js/product.19kc92yg45.js.gz",
+      "AssetFile": "C:\\Development\\Dotnet\\SleekPrint\\SleekPrint\\obj\\Debug\\net9.0\\compressed\\j3kok8pczy-19kc92yg45.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -19548,7 +19445,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "679"
+          "Value": "681"
         },
         {
           "Name": "Content-Type",
@@ -19556,11 +19453,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"fwAzxw95QvQ4npZLcDdJM/OmqF6kid3+NPFs/t9UuEE=\""
+          "Value": "\"5au/bJ0N6xcEK+l/ffXpoD2NfBSWVAcgzKZIAeOrYb4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Dec 2024 19:47:32 GMT"
+          "Value": "Wed, 18 Dec 2024 21:04:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -19578,7 +19475,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "bfnwq6fmmm"
+          "Value": "19kc92yg45"
         },
         {
           "Name": "label",
@@ -19586,18 +19483,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-fwAzxw95QvQ4npZLcDdJM/OmqF6kid3+NPFs/t9UuEE="
+          "Value": "sha256-5au/bJ0N6xcEK+l/ffXpoD2NfBSWVAcgzKZIAeOrYb4="
         }
       ]
     },
     {
       "Route": "js/product.js",
-      "AssetFile": "C:\\Development\\Dotnet\\SleekPrint\\SleekPrint\\obj\\Debug\\net9.0\\compressed\\j3kok8pczy-bfnwq6fmmm.gz",
+      "AssetFile": "C:\\Development\\Dotnet\\SleekPrint\\SleekPrint\\obj\\Debug\\net9.0\\compressed\\j3kok8pczy-19kc92yg45.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001470588235"
+          "Quality": "0.001466275660"
         }
       ],
       "ResponseHeaders": [
@@ -19607,15 +19504,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "679"
+          "Value": "681"
         },
         {
           "Name": "ETag",
-          "Value": "\"fwAzxw95QvQ4npZLcDdJM/OmqF6kid3+NPFs/t9UuEE=\""
+          "Value": "\"5au/bJ0N6xcEK+l/ffXpoD2NfBSWVAcgzKZIAeOrYb4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Dec 2024 19:47:32 GMT"
+          "Value": "Wed, 18 Dec 2024 21:04:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -19635,13 +19532,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"l+BKwHfX2E5Ha4Ocm0rcNrn6cQgI3UVIN3OJAIx7ybs=\""
+          "Value": "W/\"e/0uEe+kH7Og3eM0oXhAJ9bNeOMfR/NDxgonu9zY9Hk=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-l+BKwHfX2E5Ha4Ocm0rcNrn6cQgI3UVIN3OJAIx7ybs="
+          "Value": "sha256-e/0uEe+kH7Og3eM0oXhAJ9bNeOMfR/NDxgonu9zY9Hk="
         }
       ]
     },
@@ -19656,7 +19553,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1698"
+          "Value": "1672"
         },
         {
           "Name": "Content-Type",
@@ -19664,11 +19561,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"l+BKwHfX2E5Ha4Ocm0rcNrn6cQgI3UVIN3OJAIx7ybs=\""
+          "Value": "\"e/0uEe+kH7Og3eM0oXhAJ9bNeOMfR/NDxgonu9zY9Hk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Dec 2024 19:47:32 GMT"
+          "Value": "Wed, 18 Dec 2024 21:04:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -19678,13 +19575,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-l+BKwHfX2E5Ha4Ocm0rcNrn6cQgI3UVIN3OJAIx7ybs="
+          "Value": "sha256-e/0uEe+kH7Og3eM0oXhAJ9bNeOMfR/NDxgonu9zY9Hk="
         }
       ]
     },
     {
       "Route": "js/product.js.gz",
-      "AssetFile": "C:\\Development\\Dotnet\\SleekPrint\\SleekPrint\\obj\\Debug\\net9.0\\compressed\\j3kok8pczy-bfnwq6fmmm.gz",
+      "AssetFile": "C:\\Development\\Dotnet\\SleekPrint\\SleekPrint\\obj\\Debug\\net9.0\\compressed\\j3kok8pczy-19kc92yg45.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -19693,7 +19590,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "679"
+          "Value": "681"
         },
         {
           "Name": "Content-Type",
@@ -19701,11 +19598,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"fwAzxw95QvQ4npZLcDdJM/OmqF6kid3+NPFs/t9UuEE=\""
+          "Value": "\"5au/bJ0N6xcEK+l/ffXpoD2NfBSWVAcgzKZIAeOrYb4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Dec 2024 19:47:32 GMT"
+          "Value": "Wed, 18 Dec 2024 21:04:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -19723,7 +19620,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-fwAzxw95QvQ4npZLcDdJM/OmqF6kid3+NPFs/t9UuEE="
+          "Value": "sha256-5au/bJ0N6xcEK+l/ffXpoD2NfBSWVAcgzKZIAeOrYb4="
         }
       ]
     },
@@ -61819,7 +61716,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Dec 2024 13:40:02 GMT"
+          "Value": "Sun, 15 Dec 2024 22:14:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -61872,7 +61769,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Dec 2024 13:40:02 GMT"
+          "Value": "Sun, 15 Dec 2024 22:14:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -61909,7 +61806,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Dec 2024 13:40:02 GMT"
+          "Value": "Sun, 15 Dec 2024 22:14:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -61956,7 +61853,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Dec 2024 13:40:02 GMT"
+          "Value": "Sun, 15 Dec 2024 22:14:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -62017,7 +61914,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Dec 2024 13:40:02 GMT"
+          "Value": "Sun, 15 Dec 2024 22:14:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -62062,7 +61959,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Dec 2024 13:40:02 GMT"
+          "Value": "Sun, 15 Dec 2024 22:14:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -62117,7 +62014,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Dec 2024 13:40:02 GMT"
+          "Value": "Sun, 15 Dec 2024 22:14:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -62178,7 +62075,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Dec 2024 13:40:02 GMT"
+          "Value": "Sun, 15 Dec 2024 22:14:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -62223,7 +62120,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Dec 2024 13:40:02 GMT"
+          "Value": "Sun, 15 Dec 2024 22:14:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -62278,7 +62175,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Dec 2024 13:40:02 GMT"
+          "Value": "Sun, 15 Dec 2024 22:14:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -62331,7 +62228,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Dec 2024 13:40:02 GMT"
+          "Value": "Sun, 15 Dec 2024 22:14:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -62368,7 +62265,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Dec 2024 13:40:02 GMT"
+          "Value": "Sun, 15 Dec 2024 22:14:36 GMT"
         },
         {
           "Name": "Cache-Control",

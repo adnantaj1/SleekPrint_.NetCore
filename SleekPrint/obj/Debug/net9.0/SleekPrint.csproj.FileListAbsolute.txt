@@ -478,7 +478,7 @@ C:\Development\Dotnet\SleekPrint\SleekPrint\bin\Debug\net9.0\Stripe.net.dll
 C:\Development\Dotnet\SleekPrint\SleekPrint\bin\Debug\net9.0\System.Security.Permissions.dll
 C:\Development\Dotnet\SleekPrint\SleekPrint\obj\Debug\net9.0\compressed\t52q1vx4j5-d41e43p1z7.gz
 C:\Development\Dotnet\SleekPrint\SleekPrint\obj\Debug\net9.0\compressed\6tsarx4m2a-spas2ap1y3.gz
-C:\Development\Dotnet\SleekPrint\SleekPrint\obj\Debug\net9.0\compressed\j3kok8pczy-bfnwq6fmmm.gz
 C:\Development\Dotnet\SleekPrint\SleekPrint\obj\Debug\net9.0\compressed\myx9zugdfq-ffq0t229t9.gz
 C:\Development\Dotnet\SleekPrint\SleekPrint\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.Facebook.dll
 C:\Development\Dotnet\SleekPrint\SleekPrint\obj\Debug\net9.0\compressed\b60zo5rnrf-6dc1n2g4rx.gz
+C:\Development\Dotnet\SleekPrint\SleekPrint\obj\Debug\net9.0\compressed\j3kok8pczy-19kc92yg45.gz

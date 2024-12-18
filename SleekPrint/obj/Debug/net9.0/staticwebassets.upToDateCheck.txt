@@ -113,8 +113,7 @@ C:\Development\Dotnet\SleekPrint\SleekPrint\wwwroot\lib\bootstrap\css\bootstrap-
 C:\Development\Dotnet\SleekPrint\SleekPrint\wwwroot\lib\bootstrap\css\bootstrap-reboot.rtl.min.css.map
 wwwroot\css\site.css
 wwwroot\favicon.ico
-wwwroot\images\products\product-4\0d57e999-f65e-4f84-91a1-298187fc601f.jpg
-wwwroot\images\products\product-4\19ed8382-6e86-4736-98b3-fc41145c78e3.jpg
+wwwroot\images\carousel1.png
 wwwroot\js\company.js
 wwwroot\js\order.js
 wwwroot\js\product.js

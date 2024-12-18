@@ -36,41 +36,23 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.ico'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\product-4\0d57e999-f65e-4f84-91a1-298187fc601f.jpg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\carousel1.png'))">
       <SourceType>Package</SourceType>
       <SourceId>SleekPrint</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/SleekPrint</BasePath>
-      <RelativePath>images/products/product-4/0d57e999-f65e-4f84-91a1-298187fc601f.jpg</RelativePath>
+      <RelativePath>images/carousel1.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>qxby501rkx</Fingerprint>
-      <Integrity>7mWgsD6iFU4ATUN8sqbG/WZ64+5Gt+eWOkxWihne6Pk=</Integrity>
+      <Fingerprint>kcqmnw62k4</Fingerprint>
+      <Integrity>5AXtARLG50kEiXhGRYZQwHhUEcFlSgcrL5JPcqlMHYA=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\product-4\0d57e999-f65e-4f84-91a1-298187fc601f.jpg'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\product-4\19ed8382-6e86-4736-98b3-fc41145c78e3.jpg'))">
-      <SourceType>Package</SourceType>
-      <SourceId>SleekPrint</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/SleekPrint</BasePath>
-      <RelativePath>images/products/product-4/19ed8382-6e86-4736-98b3-fc41145c78e3.jpg</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>cafjpk87dy</Fingerprint>
-      <Integrity>JJ20MfQmqFw4v7gxWKcgzDMC6FMUXDP4K97Jj8MQzx4=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\product-4\19ed8382-6e86-4736-98b3-fc41145c78e3.jpg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\carousel1.png'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\company.js'))">
       <SourceType>Package</SourceType>
@@ -120,8 +102,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>bfnwq6fmmm</Fingerprint>
-      <Integrity>l+BKwHfX2E5Ha4Ocm0rcNrn6cQgI3UVIN3OJAIx7ybs=</Integrity>
+      <Fingerprint>19kc92yg45</Fingerprint>
+      <Integrity>e/0uEe+kH7Og3eM0oXhAJ9bNeOMfR/NDxgonu9zY9Hk=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\product.js'))</OriginalItemSpec>

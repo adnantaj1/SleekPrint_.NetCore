@@ -256,23 +256,23 @@ namespace SleekPrint.DataAccess.Migrations
                         new
                         {
                             Id = 1,
-                            CreatedDateTime = new DateTime(2024, 12, 13, 20, 26, 54, 917, DateTimeKind.Local).AddTicks(809),
+                            CreatedDateTime = new DateTime(2024, 12, 18, 21, 51, 44, 411, DateTimeKind.Local).AddTicks(6510),
                             DisplayOrder = 1,
-                            Name = "Action"
+                            Name = "Bil"
                         },
                         new
                         {
                             Id = 2,
-                            CreatedDateTime = new DateTime(2024, 12, 13, 20, 26, 54, 919, DateTimeKind.Local).AddTicks(2222),
+                            CreatedDateTime = new DateTime(2024, 12, 18, 21, 51, 44, 413, DateTimeKind.Local).AddTicks(7596),
                             DisplayOrder = 2,
-                            Name = "SciFi"
+                            Name = "Sports & Fritid"
                         },
                         new
                         {
                             Id = 3,
-                            CreatedDateTime = new DateTime(2024, 12, 13, 20, 26, 54, 919, DateTimeKind.Local).AddTicks(2248),
+                            CreatedDateTime = new DateTime(2024, 12, 18, 21, 51, 44, 413, DateTimeKind.Local).AddTicks(7623),
                             DisplayOrder = 3,
-                            Name = "History"
+                            Name = "Tøj"
                         });
                 });
 
@@ -453,7 +453,7 @@ namespace SleekPrint.DataAccess.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<string>("Author")
+                    b.Property<string>("ArticalNumber")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
@@ -461,10 +461,6 @@ namespace SleekPrint.DataAccess.Migrations
                         .HasColumnType("int");
 
                     b.Property<string>("Description")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("ISBN")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
@@ -494,10 +490,9 @@ namespace SleekPrint.DataAccess.Migrations
                         new
                         {
                             Id = 1,
-                            Author = "Billy Spark",
+                            ArticalNumber = "67654689",
                             CategoryId = 1,
                             Description = "Praesent vitae sodales libero. Praesent molestie orci augue, vitae euismod velit sollicitudin ac. Praesent vestibulum facilisis nibh ut ultricies.\r\n\r\nNunc malesuada viverra ipsum sit amet tincidunt. ",
-                            ISBN = "SWD9999001",
                             ListPrice = 99.0,
                             Price = 90.0,
                             Price100 = 80.0,
@@ -507,10 +502,9 @@ namespace SleekPrint.DataAccess.Migrations
                         new
                         {
                             Id = 2,
-                            Author = "Nancy Hoover",
+                            ArticalNumber = "67654689",
                             CategoryId = 1,
                             Description = "Praesent vitae sodales libero. Praesent molestie orci augue, vitae euismod velit sollicitudin ac. Praesent vestibulum facilisis nibh ut ultricies.\r\n\r\nNunc malesuada viverra ipsum sit amet tincidunt. ",
-                            ISBN = "CAW777777701",
                             ListPrice = 40.0,
                             Price = 30.0,
                             Price100 = 20.0,
@@ -520,10 +514,9 @@ namespace SleekPrint.DataAccess.Migrations
                         new
                         {
                             Id = 3,
-                            Author = "Julian Button",
+                            ArticalNumber = "67654689",
                             CategoryId = 2,
                             Description = "Praesent vitae sodales libero. Praesent molestie orci augue, vitae euismod velit sollicitudin ac. Praesent vestibulum facilisis nibh ut ultricies.\r\n\r\nNunc malesuada viverra ipsum sit amet tincidunt. ",
-                            ISBN = "RITO5555501",
                             ListPrice = 55.0,
                             Price = 50.0,
                             Price100 = 35.0,
@@ -533,10 +526,9 @@ namespace SleekPrint.DataAccess.Migrations
                         new
                         {
                             Id = 4,
-                            Author = "Abby Muscles",
+                            ArticalNumber = "67654689",
                             CategoryId = 3,
                             Description = "Praesent vitae sodales libero. Praesent molestie orci augue, vitae euismod velit sollicitudin ac. Praesent vestibulum facilisis nibh ut ultricies.\r\n\r\nNunc malesuada viverra ipsum sit amet tincidunt. ",
-                            ISBN = "WS3333333301",
                             ListPrice = 70.0,
                             Price = 65.0,
                             Price100 = 55.0,
@@ -546,10 +538,9 @@ namespace SleekPrint.DataAccess.Migrations
                         new
                         {
                             Id = 5,
-                            Author = "Ron Parker",
+                            ArticalNumber = "67654689",
                             CategoryId = 1,
                             Description = "Praesent vitae sodales libero. Praesent molestie orci augue, vitae euismod velit sollicitudin ac. Praesent vestibulum facilisis nibh ut ultricies.\r\n\r\nNunc malesuada viverra ipsum sit amet tincidunt. ",
-                            ISBN = "SOTJ1111111101",
                             ListPrice = 30.0,
                             Price = 27.0,
                             Price100 = 20.0,
@@ -559,10 +550,9 @@ namespace SleekPrint.DataAccess.Migrations
                         new
                         {
                             Id = 6,
-                            Author = "Laura Phantom",
+                            ArticalNumber = "67654689",
                             CategoryId = 2,
                             Description = "Praesent vitae sodales libero. Praesent molestie orci augue, vitae euismod velit sollicitudin ac. Praesent vestibulum facilisis nibh ut ultricies.\r\n\r\nNunc malesuada viverra ipsum sit amet tincidunt. ",
-                            ISBN = "FOT000000001",
                             ListPrice = 25.0,
                             Price = 23.0,
                             Price100 = 20.0,
