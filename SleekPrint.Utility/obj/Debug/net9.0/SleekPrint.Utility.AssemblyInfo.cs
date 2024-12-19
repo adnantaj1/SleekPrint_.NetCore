@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SleekPrint.Utility")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d7b9ad450d2ab79e62e8ab707bcbbad72dffdf2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2b6f13e6df9fff6806c4a7aa4eea61192771376")]
 [assembly: System.Reflection.AssemblyProductAttribute("SleekPrint.Utility")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SleekPrint.Utility")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
