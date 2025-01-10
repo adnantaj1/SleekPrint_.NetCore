@@ -5,7 +5,7 @@ This project is a simple e-commerce web application built using .NET Core and MV
 
 ## Live Demo
 The application is live and accessible at:
-https://ekprint.azurewebsites.net
+https://sleekprint.azurewebsites.net
 
 ## Features
 - Product and category management: Add and manage categories and products.
