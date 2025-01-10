@@ -3,6 +3,10 @@
 ## Description
 This project is a simple e-commerce web application built using .NET Core and MVC architecture. It allows users to add categories of products and individual products. This application is designed with an N-tier architecture to ensure separation of concerns and implements the Repository pattern along with Unit of Work to manage database operations efficiently.
 
+## Live Demo
+The application is live and accessible at:
+https://ekprint.azurewebsites.net
+
 ## Features
 - Product and category management: Add and manage categories and products.
 - User management: Implemented using .NET Core Identity for handling user authentication and authorization.
